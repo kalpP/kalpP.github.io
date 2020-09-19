@@ -4,3 +4,7 @@ a:link {
 :link {
     background-color: blue;
 }
+
+body {
+    text-align: center;
+}
