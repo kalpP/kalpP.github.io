@@ -13,6 +13,11 @@ a:hover {
 a.active {
     color: black;
 }
-body {
-    margin: 0 auto;
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
 }
