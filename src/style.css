@@ -6,7 +6,9 @@
 body{
     font-family: "Roboto", 
 }
-
+.hero-content {
+    text-align: center;
+}
 .nav-container{
     background: #fffffa;
 
